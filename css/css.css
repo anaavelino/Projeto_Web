@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+   
+    
+}
+
+.link{
+    text-decoration:none;
+    color: black;
+}
+.container{
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: 5%;
+    padding-top: 3%;  
+    padding-left:17%;  
+
+}
+
+
+.rodape{
+    background-color:#DCDCDC	;
+    height: 150px;
+    position: relative;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+#t2{
+    position: relative;
+    padding-top: 60px;
+    font-size: 15px;
+    
+}
