@@ -7,6 +7,11 @@
    
     
 }
+ .titulo{
+    position: relative;
+    display: inline;
+    padding-right: 50%;
+}
 
 .link{
     text-decoration:none;
