@@ -17,14 +17,16 @@
 <body>
     
     
-    <div class="jumbotron text-center">
+    <div class="jumbotron text-left" style="padding-left:6%; padding-top:2%;" >
 
-    <i class="fas fa-cloud-moon" style="font-size:60px; color:#DCDCDC"> </i>
-    <h3 id="titulo"><h3>
+    <div class="cabecalho">
+   
+    <h3  class="fas fa-cloud-moon" style="font-size:30px; color:#Black" id="titulo"><h3>
+    </div>
 
     <a class="link" href="projetoweb/contato.php"><button  class="btn" type="button" name="b1">inicio</button></a>
     <a class="link" href="projetoweb/contato.php"> <button class="btn" type="button" name="b2" >contato</button></a>
-    <a class="link" href="projetoweb/contato.php"><button class="btn" type="button" name="b3"> item</button></a>
+    <a class="link" href="projetoweb/login.php"><button class="btn" type="button" name="b3"> item</button></a>
  
      </div>
     
@@ -63,7 +65,7 @@
     </div>
 
     <script>
-        document.getElementById("titulo").innerHTML = "Meu título meu tituo para ttedte";
+        document.getElementById("titulo").innerHTML = "  Meu título";
         document.getElementById("t2").innerHTML = "direitos autorais";
     </script>
 </body>
